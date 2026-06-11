@@ -11,7 +11,7 @@
 
 Este repositório contém o código do ambiente experimental multicloud desenvolvido como parte do artigo acadêmico **"Multicloud: Integração de Sistemas, Desenvolvimento e Aplicações Práticas"**.
 
-O experimento demonstra, em escala reduzida, a arquitetura de integração utilizada no **Open Finance brasileiro**: três provedores de nuvem distintos se comunicando via APIs REST padronizadas, sem dependência de infraestrutura compartilhada.
+O experimento demonstra, em escala reduzida, a arquitetura de integração utilizada na **Simulação de Operação Financeira** no contexto de multicloud: três provedores de nuvem distintos se comunicando via APIs REST padronizadas, sem dependência de infraestrutura compartilhada.
 
 ---
 
