@@ -4,7 +4,7 @@ Função serverless hospedada no **Google Cloud Platform**, desenvolvida em Pyth
 
 ## O que faz
 
-Simula o papel de uma instituição financeira (Banco Beta) no ecossistema Open Finance,
+Simula o papel de uma instituição financeira (Banco Beta) no ecossistema Financeiro,
 expondo dados do índice de inflação IPCA via endpoint HTTP público.
 
 ## Como implantar
