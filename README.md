@@ -1,4 +1,4 @@
-# Ambiente Experimental Multicloud — Open Finance
+# Ambiente Experimental Multicloud — Simulação de Operação Financeira
 
 **Disciplina:** Integração e Desenvolvimento de Sistemas  
 **Curso:** Sistemas de Informação — Faculdade Impacta  
